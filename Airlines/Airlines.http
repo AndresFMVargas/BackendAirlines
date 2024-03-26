@@ -1,0 +1,6 @@
+@Airlines_HostAddress = http://localhost:5278
+
+GET {{Airlines_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
